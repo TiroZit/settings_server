@@ -1,9 +1,10 @@
 # Настройка дедика
-- `nginx`
-- `php-fpm`
-- `mysql`
-- `ssl cloudflare`
-- `cache`
+- [Первичная настройка дедика](commands.md)
+- [nginx](nginx.md)
+- [laravel](laravel.md)
+- [mysql](mysql.md)
+- [ssl cloudflare](ssl.md)
+- [cache](cache.md)
 
 ## Программы для настройки
 - [Bitvise](https://www.bitvise.com/ssh-client-download)
