@@ -1,5 +1,6 @@
 # Настройка дедика
 - [Первичная настройка дедика](commands.md)
+- [nvm](nvm.md)
 - [nginx](nginx.md)
 - [laravel](laravel.md)
 - [mysql](mysql.md)
