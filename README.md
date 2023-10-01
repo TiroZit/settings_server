@@ -7,6 +7,9 @@
 - [ssl cloudflare](ssl.md)
 - [cache](cache.md)
 
+## WSL
+- [Создание моста](wsl.md)
+
 ## Программы для настройки
 - [Bitvise](https://www.bitvise.com/ssh-client-download)
 - [HeidiSQL](https://www.heidisql.com/download.php)
