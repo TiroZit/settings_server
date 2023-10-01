@@ -1,6 +1,5 @@
 # Настройка дедика
 - [Первичная настройка дедика](commands.md)
-- [nvm](nvm.md)
 - [nginx](nginx.md)
 - [laravel](laravel.md)
 - [mysql](mysql.md)
@@ -9,6 +8,7 @@
 
 ## WSL
 - [Создание моста](wsl.md)
+- [nvm](nvm.md)
 
 ## Программы для настройки
 - [Bitvise](https://www.bitvise.com/ssh-client-download)
