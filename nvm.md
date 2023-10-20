@@ -16,7 +16,7 @@ nvm install 18 --lts && nvm install 16 --lts && nvm install 14 --lts && nvm inst
 corepack enable && corepack prepare yarn@stable --activate
 ~~~
 ~~~
-npm install --global gulp-cli stylelint eslint
+npm install --global gulp-cli stylelint eslint svgo sugarss postcss-sass
 ~~~
 ~~~
 npm install --global gulp-cli
