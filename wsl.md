@@ -20,7 +20,10 @@ networkingMode=bridged
 vmSwitch=bridge
 ```
 ```
-New-VMSwitch -Name bridge  -NetAdapterName <netadapter-name>
+Get-NetAdapter -Name *
+```
+```
+New-VMSwitch -Name bridge  -NetAdapterName Ethernet
 ```
 
 ```
