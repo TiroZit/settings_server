@@ -9,7 +9,7 @@ curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 source ~/.profile
 ~~~
 ~~~
-nvm install 20 --lts && nvm install 16 --lts && nvm install 14 --lts
+nvm install 22 --lts && nvm install 16 --lts && nvm install 14 --lts
 ~~~
 ## yarn
 ~~~
